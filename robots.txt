@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+
+Allow: /index.html
+Allow: /index_ru.html
+Allow: /Bunker-project.html
+Allow: /Bunker-project_ru.html
+Allow: /House28_project.html
+Allow: /House28_project_ru.html
+Allow: /Night_club_project.html
+Allow: /Night_club_project_ru.html
+Allow: /School-project.html
+Allow: /School-project_ru.html
+Allow: /VGI-Y_project.html
+Allow: /VGI-Y_project_ru.html
+
+Sitemap: https://yourdomain.com/sitemap.xml
